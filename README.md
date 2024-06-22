@@ -6,8 +6,11 @@ So I built this Angular app...
 
 # Paths
 
-1. hOmE
-   ![alt text](image.png)
+1. **hOmE**
+   ![alt text](image-2.png)
 
-2. DoG aPI
-   ![alt text](image-1.png)
+2. **cREaTe & Updatu**
+   ![alt text](image-3.png)
+
+3. **DoG aPI**
+   ![alt text](image-4.png)
